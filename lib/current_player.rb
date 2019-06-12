@@ -3,5 +3,5 @@ def turn_count(board)
   do board.each_char { |turn_count|  }
     turn_counter +=1
   end
-  
+
 end
